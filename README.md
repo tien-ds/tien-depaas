@@ -5,7 +5,7 @@ https://github.com/tien-ds/tien-depaas/releases
 ### how to start
 ```shell script
 ./depass-seed init
-./depass-seed run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:46658
+./depass-seed run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
 ```
 ### how to use 
 - depass support eth rpc
