@@ -1,4 +1,7 @@
 # depass chain
+
+### download pre binary
+https://github.com/tien-ds/tien-depaas/releases
 ### how to start
 ```shell script
 ./depass-seed init
