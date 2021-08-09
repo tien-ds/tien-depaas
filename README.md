@@ -1,4 +1,4 @@
-# depass chain
+# depaas chain
 
 ### download pre binary
 https://github.com/tien-ds/tien-depaas/releases
