@@ -1,4 +1,4 @@
-# Distributed Digital Ecological Platform AS A Service chain
+# Distributed Digital Ecological Platform AS A Service
 
 ### download pre binary
 https://github.com/tien-ds/tien-depaas/releases
