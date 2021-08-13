@@ -7,6 +7,11 @@ https://github.com/tien-ds/tien-depaas/releases
 ./depaas-seed-linux-v0.1.1 init
 ./depaas-seed-linux-v0.1.1 run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
 ```
+#### peer list
+```
+tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
+tcp://1d576475d65b2e7dfa627f7ac2b62dbbc49f7514@123.100.236.29:26656
+```
 ### how to use 
 - depass support eth rpc
 ```shell script
