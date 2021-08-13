@@ -11,6 +11,7 @@ https://github.com/tien-ds/tien-depaas/releases
 ```
 tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
 tcp://363aaac13b215600b8f29844cd273f0c2eca175a@198.55.58.138:26656
+tcp://6874612a29c7e3990cfe1aaca0e1970606ef0c44@198.55.58.204:26656
 
 ```
 ### how to use 
