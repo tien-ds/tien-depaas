@@ -52,4 +52,4 @@ tcp://6874612a29c7e3990cfe1aaca0e1970606ef0c44@198.55.58.204:26656
 ./depaas-seed coin approve --contract 0xe288d6eec7150D6a22FDE33F0AA2d81E06591C4d -k aa 0x01D10029c253fA02D76188b84b5846ab3D19510D 12500000
 ./depaas-seed dpos3 register-candidate -k aa {you publicKey} 100 3 --name node3 # register-candidate
 ```
-> aa 
+> aa is you private key file
