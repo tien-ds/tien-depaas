@@ -4,8 +4,8 @@
 https://github.com/tien-ds/tien-depaas/releases
 ### how to start
 ```shell script
-./depaas-seed-linux-v0.1.1 init
-./depaas-seed-linux-v0.1.1 run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
+./depaas-seed-linux-v0.1.2 init
+./depaas-seed-linux-v0.1.2 run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
 ```
 #### peer list
 ```
