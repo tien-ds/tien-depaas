@@ -1,6 +1,6 @@
 # Distributed Digital Ecological Platform AS A Service
 
-### download pre binary
+### Download pre binary
 https://github.com/tien-ds/tien-depaas/releases
 
 #### DS TOKEN CONTRACT
@@ -12,7 +12,7 @@ xyUCchh/4j1TnsCdQbBmmzctgVU=
 qrW7K9dHhpXqWxjhSgohavQ966A=
 ```
 --- 
-### 1. how to start
+### 1. How to start
 ```shell script
 ./depaas-seed-linux-v0.1.2 init
 ./depaas-seed-linux-v0.1.2 run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
@@ -24,7 +24,7 @@ tcp://363aaac13b215600b8f29844cd273f0c2eca175a@198.55.58.138:26656
 tcp://6874612a29c7e3990cfe1aaca0e1970606ef0c44@198.55.58.204:26656
 
 ```
-### 2. how to use 
+### 2. How to use 
 - depass support eth rpc
 ```shell script
 {"eth_blockNumber"},
@@ -70,7 +70,7 @@ curl --location --request POST 'http://123.100.236.30:46658/eth' \
 }'
 ```
 
-### 3. how to Mortgage mining
+### 3. How to Mortgage mining
 - First you need 1.2 million DE Token
 ```
 ./depaas-seed coin approve --contract 0xe288d6eec7150D6a22FDE33F0AA2d81E06591C4d -k aa 0x01D10029c253fA02D76188b84b5846ab3D19510D 12500000
