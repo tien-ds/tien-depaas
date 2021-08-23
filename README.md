@@ -46,6 +46,20 @@ tcp://6874612a29c7e3990cfe1aaca0e1970606ef0c44@198.55.58.204:26656
 ```
 - support evm contract
 
+#### eg. invoke eth_getTransactionByHash
+```
+curl --location --request POST 'http://123.100.236.30:46658/eth' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+    "jsonrpc": "2.0",
+    "method": "eth_getTransactionByHash",
+    "params": [
+        "0x80653ab611a53907853e0ed84ed4fc1928f85d40501f76d573707c0ec9dbee1d"
+    ],
+    "id": 1
+}'
+```
+
 # how to Mortgage mining
 - First you need 1.2 million DE Token
 ```
