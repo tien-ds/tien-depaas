@@ -53,3 +53,6 @@ tcp://6874612a29c7e3990cfe1aaca0e1970606ef0c44@198.55.58.204:26656
 ./depaas-seed dpos3 register-candidate -k aa {you publicKey} 100 3 --name node3 # register-candidate
 ```
 > aa is you private key file
+
+# How to sign offline ?
+Reference [depaas-sdk](https://github.com/tien-ds/depaas-sdk)
