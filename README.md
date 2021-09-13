@@ -5,11 +5,11 @@ https://github.com/tien-ds/tien-depaas/releases
 
 #### DS TOKEN CONTRACT
 ```
-xyUCchh/4j1TnsCdQbBmmzctgVU=
+qknrnYZxIJDvOX73JkeNoJKHzTI=
 ```
 #### DEC TOKEN CONTRACT
 ```
-qrW7K9dHhpXqWxjhSgohavQ966A=
+1ZMAh5whrc+LLh0FpfkHXOGfgx4=
 ```
 --- 
 ### 1. How to start
