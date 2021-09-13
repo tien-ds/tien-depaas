@@ -14,8 +14,8 @@ qknrnYZxIJDvOX73JkeNoJKHzTI=
 --- 
 ### 1. How to start
 ```shell script
-./depaas-seed-linux-v0.1.2 init
-./depaas-seed-linux-v0.1.2 run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
+./depaas-seed-linux-v0.1.3 init
+./depaas-seed-linux-v0.1.3 run --persistent-peers tcp://520e264def1262d45910ed742865d6f835ecdc59@123.100.236.30:26656
 ```
 #### peer list
 ```
